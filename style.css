@@ -1,0 +1,26 @@
+h1 {
+	text-align: center;
+}
+
+.container {
+	position: absolute;
+	top: 23%;
+	left: 41%;
+	margin-top: -50px;
+	margin-left: -50px;
+	width: 500px;
+	height: 500px;
+}
+
+.keypad {
+	background: white;
+	width: 100px;
+	height: 100px;
+	font-size: xx-large;
+	color: white;
+	align-items: center;
+}
+
+.space {
+	height: 10px;
+}
